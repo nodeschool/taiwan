@@ -8,3 +8,5 @@ We'd like to build up the community and organize events in Taiwan.
 Welcome to join us if you want to become a mentor or collaborator. Open an issue on this repository asking to get added as a mentor or collaborator. You should say something which includes name, facebook/twitter account and introduce youself (Chinese and English are both ok) : )
 
 ## [Welcome to join us !](https://github.com/nodeschool/taiwan/issues)
+
+### website? [http://nodeschool.io/taiwan/](http://nodeschool.io/taiwan/)
